@@ -1,1 +1,1 @@
-# Ex-7-EC2-instances-creation
+# Ex-04-EC2-instances-creation
